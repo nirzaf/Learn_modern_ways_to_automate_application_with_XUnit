@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EATestBDD": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
